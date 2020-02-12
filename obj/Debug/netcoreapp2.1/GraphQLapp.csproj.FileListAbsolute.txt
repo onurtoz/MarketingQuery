@@ -1,0 +1,14 @@
+C:\GraphQLapp\obj\Debug\netcoreapp2.1\GraphQLapp.csprojAssemblyReference.cache
+C:\GraphQLapp\obj\Debug\netcoreapp2.1\GraphQLapp.csproj.CoreCompileInputs.cache
+C:\GraphQLapp\obj\Debug\netcoreapp2.1\GraphQLapp.RazorAssemblyInfo.cache
+C:\GraphQLapp\obj\Debug\netcoreapp2.1\GraphQLapp.RazorAssemblyInfo.cs
+C:\GraphQLapp\obj\Debug\netcoreapp2.1\GraphQLapp.AssemblyInfoInputs.cache
+C:\GraphQLapp\obj\Debug\netcoreapp2.1\GraphQLapp.AssemblyInfo.cs
+C:\GraphQLapp\bin\Debug\netcoreapp2.1\GraphQLapp.deps.json
+C:\GraphQLapp\bin\Debug\netcoreapp2.1\GraphQLapp.runtimeconfig.json
+C:\GraphQLapp\bin\Debug\netcoreapp2.1\GraphQLapp.runtimeconfig.dev.json
+C:\GraphQLapp\bin\Debug\netcoreapp2.1\GraphQLapp.dll
+C:\GraphQLapp\obj\Debug\netcoreapp2.1\GraphQLapp.RazorTargetAssemblyInfo.cache
+C:\GraphQLapp\bin\Debug\netcoreapp2.1\GraphQLapp.pdb
+C:\GraphQLapp\obj\Debug\netcoreapp2.1\GraphQLapp.dll
+C:\GraphQLapp\obj\Debug\netcoreapp2.1\GraphQLapp.pdb
